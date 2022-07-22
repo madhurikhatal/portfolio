@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Varela+Round&display=swap');
+.nav {
+    /* background-color: #7c827e; */
+    /* background-image: url('./image/1.webp'); */
+    color: #1b1d1c;
+    font-size: larger;
+    font-weight: 800;
+    text-decoration: none;
+}
+.nav:hover {
+    transform: scaleY(1.1);
+}
+
+.footer {
+    background-image: url('./image/1.webp');
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-position: center;
+    /* background-color: red; */
+    color: white;
+    font-size: larger;
+    font-weight: 800;
+    text-align: center;
+}
+.footer:hover {
+    transform: scaleY(1.1);
+}
+
+.bg {
+    /* background-image: url('./image/bg.jpg'); */
+    background-image: url('./image/1.webp');
+    height: 100%;
+}
+/* .container:hover {
+    transform: scaleY(1.1);
+    } */
+h1 {
+    color: white;
+    font-weight: 900;
+    transition: width 2s, height 2s, transform 2s;
+}
+
+h1:hover {
+transform: scaleY(2.3);
+}
+
+p {
+    color: white;
+    font-weight: 800;
+    
+font-family: 'Varela Round', sans-serif;
+}
+
+.img1 {
+    border-radius: 40%;
+}
+
+.p-3 {
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.title {
+    justify-content: center;
+   
+    font-size: xx-large;
+    font-weight: bolder;
+  
+font-family: 'Varela Round', sans-serif;
+}
+
+.card-body{
+    border-radius: 50%;
+}

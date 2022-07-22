@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Varela+Round&display=swap');
+.bg1 {
+    background-color: rgb(224, 213, 235);
+    border-radius: 10%;
+    height: 50%;
+    width: 100%;
+}
+
+p {
+    color: black;
+}
+
+.img {
+    border-radius: 40%;
+
+}
+
+.font {
+    font-size: larger;
+    font-family: 'Roboto', sans-serif;
+font-family: 'Varela Round', sans-serif;
+}
+
+button{
+    position: static;    
+}
+
+/* .card1:hover {
+    transform: scaleY(1.1);
+}
+
+.card2:hover {
+    transform: scaleY(1.1);
+}
+
+.card3:hover {
+    transform: scaleY(1.1);
+}
+
+.card4:hover {
+    transform: scaleY(1.1);
+}
+
+.card5:hover {
+    transform: scaleY(1.1);
+} */
